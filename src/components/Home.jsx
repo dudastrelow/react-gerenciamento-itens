@@ -106,7 +106,7 @@ function Home() {
     <div className="container">
       {/* Cabeçalho */}
       <div className="header">
-        <h2>Prova de Desenvolvimento Web</h2>
+        <h2>Prova de Desenvolvimento Web - Maria Eduarda Strelow A Costa</h2>
       </div>
 
       {/* Mensagem de erro */}
